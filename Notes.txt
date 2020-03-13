@@ -1,0 +1,16 @@
+Overfitting and Underfitting
+
+Overfitting = Train accuracy > Test accuracy
+
+Overfitting synonym Variance
+Underfitting synonym biased.
+
+R2 is nothing but model accuracy
+Adjusted R2 increases only when a new variable added to model increases the model accuracy.
+
+Polynimial equation: curve i.e. B0+B1x+B2x^2+....
+
+Queries:
+How lasso works? Just like Simple linear works with OLS technique.
+
+Error is also called loss function or cost function.
